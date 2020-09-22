@@ -33,7 +33,11 @@ public class Person {
     }
 
     public void setPassportId(int passportId) {
-        this.passportId = passportId;
+        if (passportId >= 0) {
+            this.passportId = passportId;
+        } else {
+            System.out.println("Ошибка! Возраст не может быть отрицательным числом!");
+        }
     }
 
 }
