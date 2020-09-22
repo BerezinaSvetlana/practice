@@ -1,6 +1,4 @@
-package ru.ssau.tk.berezinasvetlana.practice.Task1;
-
-import ru.ssau.tk.berezinasvetlana.practice.Task1.Person;
+package ru.ssau.tk.berezinasvetlana.practice.Task1.Person;
 
 public class Main {
 

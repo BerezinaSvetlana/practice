@@ -1,4 +1,4 @@
-package ru.ssau.tk.berezinasvetlana.practice.Task1;
+package ru.ssau.tk.berezinasvetlana.practice.Task1.Person;
 
 public class Person {
 
