@@ -11,9 +11,17 @@ public class Main {
             String berezinalastName = berezina.getLastName();
             int berezinapassportId = berezina.getPassportId();
 
+            Person abrosimova = new Person("Margo","Abrosimova", 3);
+            String abrosimovafirstName = abrosimova.getFirstName();
+            String abrosimovalastName = abrosimova.getLastName();
+            int abrosimovapassportId = abrosimova.getPassportId();
+
             System.out.println("FirstName: " + berezinafirstName);
             System.out.println("LastName: " + berezinalastName);
             System.out.println("PassportId: " + berezinapassportId);
+            System.out.println("FirstName: " + abrosimovafirstName);
+            System.out.println("LastName: " + abrosimovalastName);
+            System.out.println("PassportId: " + abrosimovapassportId);
         }
 }
 
