@@ -28,7 +28,13 @@ public class GameField extends JPanel {
     }
 
     public void initGame(){
-
+        dots = 3;
+        for (int i = 0; i < dots; i++) {
+            x[i] = 48 - i*DOT_SIZE;
+            y[i] = 48;
+        }
+        timer = new Timer(250, this);
+        timer.start();
     }
 
     public void loadImages(){
