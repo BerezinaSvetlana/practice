@@ -13,7 +13,6 @@ public class MainWindow extends JFrame {
     }
 
     public static void main(String[] args) {
-
         MainWindow mv = new MainWindow();
     }
 }
