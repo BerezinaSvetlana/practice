@@ -6,7 +6,7 @@ public class Main {
 
         public static void main(String[] args) {
 
-            Person berezina = new Person();
+            Person berezina = new Person("svetlana","berezina", 1);
             String berezinafirstName = berezina.getFirstName();
             String berezinalastName = berezina.getLastName();
             int berezinapassportId = berezina.getPassportId();

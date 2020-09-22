@@ -6,6 +6,12 @@ public class Person {
     private String lastName;
     private int passportId;
 
+    public Person(String firstName, String lastName, int passportId) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.passportId = passportId;
+    }
+
     public String getFirstName() {
         return firstName;
     }
@@ -28,20 +34,6 @@ public class Person {
 
     public void setPassportId(int passportId) {
         this.passportId = passportId;
-    }
-
-    public static class Main {
-        public static void main(String[] args) {
-
-            Person berezina = new Person();
-            String berezinafirstName = berezina.getFirstName();
-            String berezinalastName = berezina.getLastName();
-            int berezinapassportId = berezina.getPassportId();
-
-            System.out.println("FirstName: " + berezinafirstName);
-            System.out.println("LastName: " + berezinalastName);
-            System.out.println("PassportId: " + berezinapassportId);
-        }
     }
 
 }
