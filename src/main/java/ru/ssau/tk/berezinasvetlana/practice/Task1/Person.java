@@ -29,14 +29,15 @@ public class Person {
     }
 
     public int getPassportId() {
-        return passportId;
+            return passportId;
     }
 
     public void setPassportId(int passportId) {
         if (passportId >= 0) {
             this.passportId = passportId;
-        } else {
-            System.out.println("Ошибка! Возраст не может быть отрицательным числом!");
+        }
+        else {
+            System.out.println("Ошибка! PassportId не может быть отрицательным числом!");
         }
     }
 
