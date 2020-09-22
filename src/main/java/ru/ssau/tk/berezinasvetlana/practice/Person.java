@@ -35,7 +35,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Person berezina = new Person("Светлана", "Березина", 3614111111);
+        Person berezina = new Person("Светлана", "Березина", 2);
         String berezinafirstName = berezina.getFirstName();
         String berezinalastName = berezina.getLastName();
         int berezinapassportId = berezina.getPassportId();
