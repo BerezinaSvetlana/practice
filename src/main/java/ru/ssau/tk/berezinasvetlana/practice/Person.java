@@ -30,3 +30,18 @@ public class Person {
         this.passportId = passportId;
     }
 }
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        Person berezina = new Person("Светлана", "Березина", 3614111111);
+        String berezinafirstName = berezina.getFirstName();
+        String berezinalastName = berezina.getLastName();
+        int berezinapassportId = berezina.getPassportId();
+
+        System.out.println("FirstName: " + berezinafirstName);
+        System.out.println("LastName: " + berezinalastName);
+        System.out.println("PassportId: " + berezinapassportId);
+    }
+}
