@@ -95,6 +95,7 @@ public class GameField extends JPanel implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         if (inGame){
             checkApple();
+            checkCollisions();
             move();
         }
         repaint();
