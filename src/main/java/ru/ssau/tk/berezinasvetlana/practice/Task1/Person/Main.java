@@ -16,6 +16,10 @@ public class Main {
             String abrosimovalastName = abrosimova.getLastName();
             int abrosimovapassportId = abrosimova.getPassportId();
 
+            Person Berezin = new Person(11);
+            Person Zin = new Person("Vasilij", "Berezin");
+            Person Abc = new Person("Abs", "Dfg", 12);
+
             System.out.println("FirstName: " + berezinafirstName);
             System.out.println("LastName: " + berezinalastName);
             System.out.println("PassportId: " + berezinapassportId);
