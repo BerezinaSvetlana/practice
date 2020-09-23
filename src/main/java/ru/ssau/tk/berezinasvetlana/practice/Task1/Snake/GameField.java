@@ -84,9 +84,17 @@ public class GameField extends JPanel implements ActionListener {
         }
     }
 
+    public void checkApple(){
+        if(x[0] == appleX && y[0] == appleY){
+            dots++;
+            createApple();
+        }
+    }
+
     @Override
     public void actionPerformed(ActionEvent e) {
         if (inGame){
+            checkApple();
             move();
         }
         repaint();
