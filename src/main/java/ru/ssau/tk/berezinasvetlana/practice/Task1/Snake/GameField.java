@@ -66,7 +66,7 @@ public class GameField extends JPanel implements ActionListener {
     }
 
     public void move(){
-        for (int i = dots; i < 0; i--) {
+        for (int i = dots; i > 0; i--) {
             x[i] = x[i-1];
             y[i] = y[i-1];
         }
