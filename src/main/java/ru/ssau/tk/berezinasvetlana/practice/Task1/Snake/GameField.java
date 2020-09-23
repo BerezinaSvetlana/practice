@@ -96,8 +96,11 @@ public class GameField extends JPanel implements ActionListener {
             if(i>4 && x[0] == x[i] && y[0] == y[i]){
                 inGame = false;
 
-            }
 
+            }
+        }
+        if (x[0] > SIZE){
+            inGame = false;
         }
     }
 
