@@ -31,6 +31,7 @@ public class GameField extends JPanel implements ActionListener {
         setBackground(Color.black);
         loadImages();
         initGame();
+        addKeyListener(new FieldKeyListener());
     }
 
     public void initGame(){
