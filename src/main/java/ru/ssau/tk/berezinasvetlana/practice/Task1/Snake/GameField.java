@@ -127,6 +127,7 @@ public class GameField extends JPanel implements ActionListener {
         @Override
         public void keyPressed(KeyEvent e) {
             super.keyPressed(e);
+            int key = e.getKeyCode();
         }
     }
 }
