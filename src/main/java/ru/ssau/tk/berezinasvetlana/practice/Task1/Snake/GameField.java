@@ -128,8 +128,13 @@ public class GameField extends JPanel implements ActionListener {
         public void keyPressed(KeyEvent e) {
             super.keyPressed(e);
             int key = e.getKeyCode();
-            if(key == KeyEvent.VK_LEFT && ! right) {
+            if(key == KeyEvent.VK_LEFT && !right) {
                 left = true;
+                up = false;
+                down = false;
+            }
+            if(key == KeyEvent.VK_RIGHT && !left) {
+                right = true;
                 up = false;
                 down = false;
             }
