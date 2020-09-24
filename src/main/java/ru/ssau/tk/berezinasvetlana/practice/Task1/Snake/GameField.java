@@ -138,6 +138,12 @@ public class GameField extends JPanel implements ActionListener {
                 up = false;
                 down = false;
             }
+            if(key == KeyEvent.VK_UP && !down) {
+                up = true;
+                right = false;
+                left = false;
+            }
+
         }
     }
 }
