@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.KeyAdapter;
 import java.util.Random;
 
 public class GameField extends JPanel implements ActionListener {
@@ -95,8 +96,6 @@ public class GameField extends JPanel implements ActionListener {
         for (int i = dots; i > 0; i--) {
             if(i>4 && x[0] == x[i] && y[0] == y[i]){
                 inGame = false;
-
-
             }
         }
         if (x[0] > SIZE){
@@ -121,5 +120,9 @@ public class GameField extends JPanel implements ActionListener {
             move();
         }
         repaint();
+    }
+
+    class FieldKeyListener extends KeyAdapter {
+
     }
 }
