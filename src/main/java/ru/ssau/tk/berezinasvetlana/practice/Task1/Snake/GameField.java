@@ -32,6 +32,7 @@ public class GameField extends JPanel implements ActionListener {
         loadImages();
         initGame();
         addKeyListener(new FieldKeyListener());
+        setFocusable(true);
     }
 
     public void initGame(){
