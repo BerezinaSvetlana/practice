@@ -2,56 +2,53 @@ package ru.ssau.tk.berezinasvetlana.practice.Task1.Person;
 
 public class Person {
 
-    private String firstName;
-    private String lastName;
-    private int passportId;
+    public String name;
+    public double height;
+    public double weight;
 
-    public Person(String firstName, String lastName, int passportId) {
-        this.firstName = firstName;
-        this.lastName = lastName;
-        this.passportId = passportId;
+    public Person(String name, double height, double weight) {
+        this.name = name;
+        this.height = height;
+        this.weight = weight;
     }
 
-    public Person(){
+    public String getName() {
+        return name;
     }
 
-    public Person(String firstName, String lastName) {
-        this.firstName = firstName;
-        this.lastName = lastName;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public Person( int passportId) {
-        this.passportId = passportId;
+    public double getHeight() {
+        return height;
     }
 
-    public String getFirstName() {
-        return firstName;
+    public void setHeight(double height) {
+        this.height = height;
     }
 
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
+    public double getWeight() {
+        return weight;
     }
 
-    public String getLastName() {
-        return lastName;
+    public void setWeight(double weight) {
+        this.weight = weight;
     }
 
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
+    public static void main(String[] args) {
 
-    public int getPassportId() {
-            return passportId;
-    }
+        Person Berezina = new Person("Svetlana",172, 70);
+        String Berezina_name = Berezina.getName();
+        double Berezina_height = Berezina.getHeight();
+        double Berezina_weight = Berezina.getWeight();
 
-    public void setPassportId(int passportId) {
-        if (passportId >= 0) {
-            this.passportId = passportId;
-        }
-        else {
-            System.out.println("Ошибка! PassportId не может быть отрицательным числом!");
-        }
-    }
+        Person Abrosimova = new Person("Margo",158, 44);
+        String Abrosimova_name = Abrosimova.getName();
+        double Abrosimova_height = Abrosimova.getHeight();
+        double Abrosimova_weight = Abrosimova.getWeight();
 
+        System.out.println("Name: " + Berezina_name + " " + "Height: " + Berezina_height + " " + "Weight: " + Berezina_weight);
+        System.out.println("Name: " + Abrosimova_name + " " + "Height: " + Abrosimova_height + " " +"Weight: " + Abrosimova_weight);
+    }
 }
-
