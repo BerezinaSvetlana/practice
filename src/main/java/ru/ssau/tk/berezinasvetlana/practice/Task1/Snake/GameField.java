@@ -68,6 +68,7 @@ public class GameField extends JPanel implements ActionListener {
             }
         }
         else {
+            String str = "Game over";
 
         }
     }
