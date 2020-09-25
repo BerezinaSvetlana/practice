@@ -11,4 +11,5 @@ public class Point {
         this.z = z;
     }
 
+    Point a = new Point(1.1,2.2,3.3);
 }
