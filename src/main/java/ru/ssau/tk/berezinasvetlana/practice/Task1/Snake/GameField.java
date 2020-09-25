@@ -67,6 +67,9 @@ public class GameField extends JPanel implements ActionListener {
                 g.drawImage(dot, x[i], y[i], this);
             }
         }
+        else {
+
+        }
     }
 
     public void move(){
