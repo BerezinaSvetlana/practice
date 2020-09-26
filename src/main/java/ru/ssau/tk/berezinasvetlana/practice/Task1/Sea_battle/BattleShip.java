@@ -8,4 +8,9 @@ public class BattleShip {
 
 
     }
+
+    public static void draw() {
+
+    }
+
 }
