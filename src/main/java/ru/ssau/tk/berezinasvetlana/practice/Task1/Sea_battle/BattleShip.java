@@ -10,6 +10,7 @@ public class BattleShip {
 
     public static void main(String[] args) {
         System.out.println("Player#1, please enter your name: ");
+        playerName1 = scanner.nextLine();
         System.out.println("Player#2, please enter your name: ");
     }
 
