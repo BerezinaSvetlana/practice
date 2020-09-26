@@ -13,7 +13,9 @@ public class BattleShip {
         playerName1 = scanner.nextLine();
         System.out.println("Player#2, please enter your name: ");
         playerName2 = scanner.nextLine();
+    }
 
+    public static void drawField() {
         System.out.println();
         System.out.println(playerName1 + " please place your ship on the battlefield");
         System.out.println();
@@ -22,9 +24,4 @@ public class BattleShip {
             System.out.println(i + " - - - - - - - - - -");
         }
     }
-
-    public static void drawField() {
-
-    }
-
 }
