@@ -13,15 +13,20 @@ public class BattleShip {
         playerName1 = scanner.nextLine();
         System.out.println("Player#2, please enter your name: ");
         playerName2 = scanner.nextLine();
+        System.out.println("Участики, учтановите по одному однопалубному, двупалубному, трупалубному и четревопалубному кораблю.");
     }
 
     public static void drawField() {
         System.out.println();
-        System.out.println(playerName1 + " please place your ship on the battlefield");
+
+        System.out.println(playerName1 + " please place your 4-deck ship on the battlefield");
         System.out.println();
         System.out.println("  0 1 2 3 4 5 6 7 8 9");
         for (int i = 0; i < 10; i++) {
             System.out.println(i + " - - - - - - - - - -");
         }
+        System.out.println("Please enter OX coordinate: ");
+
+
     }
 }
