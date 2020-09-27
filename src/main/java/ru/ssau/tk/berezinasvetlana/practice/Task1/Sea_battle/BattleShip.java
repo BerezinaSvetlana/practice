@@ -32,9 +32,6 @@ public class BattleShip {
         System.out.println("Choose direction: ");
         System.out.println("1. Vertical. ");
         System.out.println("2. Horizontal. ");
-
-
-
-
+        int rotation = scanner.nextInt();
     }
 }
