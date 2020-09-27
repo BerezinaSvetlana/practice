@@ -35,5 +35,12 @@ public class BattleShip {
         System.out.println("1. Vertical. ");
         System.out.println("2. Horizontal. ");
         int rotation = scanner.nextInt();
+
+        for (int i = 0; i < battlefield1.length; i++) {
+            for (int j = 0; j < battlefield1.length; j++) {
+
+            }
+
+        }
     }
 }
