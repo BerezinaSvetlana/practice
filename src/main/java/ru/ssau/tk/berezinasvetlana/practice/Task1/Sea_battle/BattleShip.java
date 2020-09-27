@@ -27,6 +27,8 @@ public class BattleShip {
         }
         System.out.println("Please enter OX coordinate: ");
         int x = scanner.nextInt();
+        System.out.println("Please enter OY coordinate: ");
+        int y = scanner.nextInt();
 
 
     }
