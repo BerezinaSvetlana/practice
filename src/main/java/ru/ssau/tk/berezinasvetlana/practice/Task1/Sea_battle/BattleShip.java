@@ -7,7 +7,8 @@ public class BattleShip {
     static String playerName1;
     static String playerName2;
     static Scanner scanner = new Scanner(System.in);
-    static int [][] array = new int[10][10];
+    static int [][] array1 = new int[10][10];
+    static int [][] array2 = new int[10][10];
 
     public static void main(String[] args) {
         System.out.println("Player#1, please enter your name: ");
