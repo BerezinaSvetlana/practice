@@ -7,8 +7,8 @@ public class BattleShip {
     static String playerName1;
     static String playerName2;
     static Scanner scanner = new Scanner(System.in);
-    static int [][] battlefield1 = new int[10][10];
-    static int [][] battlefield2 = new int[10][10];
+    static int[][] battlefield1 = new int[10][10];
+    static int[][] battlefield2 = new int[10][10];
 
     public static void main(String[] args) {
         System.out.println("Player#1, please enter your name: ");
@@ -23,7 +23,7 @@ public class BattleShip {
 
         System.out.println(playerName1 + " please place your 4-deck ship on the battlefield");
         System.out.println();
-        System.out.println("  0 1 2 3 4 5 6 7 8 9");
+        System.out.println(" 0 1 2 3 4 5 6 7 8 9");
         for (int i = 0; i < 10; i++) {
             System.out.println(i + " - - - - - - - - - -");
         }
@@ -40,7 +40,6 @@ public class BattleShip {
             for (int j = 0; j < battlefield1.length; j++) {
 
             }
-
         }
     }
 }
