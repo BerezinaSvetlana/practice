@@ -15,7 +15,7 @@ public class BattleShip {
         playerName1 = scanner.nextLine();
         System.out.println("Player#2, please enter your name: ");
         playerName2 = scanner.nextLine();
-        System.out.println("Участики, учтановите по одному однопалубному, двупалубному, трупалубному и четревопалубному кораблю.");
+        System.out.println("Участики, учтановите по одному однопалубному, двухпалубному, трехпалубному и четырехпалубному кораблю.");
     }
 
     public static void drawField() {
