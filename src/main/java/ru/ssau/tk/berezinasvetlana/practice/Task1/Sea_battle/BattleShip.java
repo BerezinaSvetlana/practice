@@ -36,18 +36,15 @@ public class BattleShip {
             System.out.println("1. Vertical. ");
             System.out.println("2. Horizontal. ");
             int direction = scanner.nextInt();
-            battlefield1[x][y] = 1;
-            if (direction == 1) {
-                battlefield1[x][y + 1] = 1;
-                battlefield1[x][y + 2] = 1;
-                battlefield1[x][y + 3] = 1;
-            } else {
-                battlefield1[x + 1][y] = 1;
-                battlefield1[x + 2][y] = 1;
-                battlefield1[x + 3][y] = 1;
+            for (int i = 0; i < deck; i++) {
+                if (direction == 1) {
+                    battlefield1[x][y+i] = 1;
+                }else {
+                    battlefield1[x+i][y] = 1;
+                }
+                deck--;
             }
-            deck--;
         }
     }
 }
-}
+
