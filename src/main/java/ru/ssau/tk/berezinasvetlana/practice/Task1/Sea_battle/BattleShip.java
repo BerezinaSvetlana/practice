@@ -45,8 +45,9 @@ public class BattleShip {
         }
     }
 
-    public static void drawField() {
+    public static void drawField(int[][] battlefield) {
         for (int i = 0; i < 10; i++) {
+
             System.out.println(i + " - - - - - - - - - -");
         }
     }
