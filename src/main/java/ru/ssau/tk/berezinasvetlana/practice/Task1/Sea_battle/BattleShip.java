@@ -16,6 +16,7 @@ public class BattleShip {
         System.out.println("Player#2, please enter your name: ");
         playerName2 = scanner.nextLine();
         System.out.println("Участики, учтановите по одному однопалубному, двухпалубному, трехпалубному и четырехпалубному кораблю.");
+        placeShips();
     }
 
     public static void placeShips() {
@@ -24,8 +25,7 @@ public class BattleShip {
             System.out.println();
             System.out.println(playerName1 + " please place your" + deck + "-deck ship on the battlefield");
             System.out.println();
-            System.out.println(" 0 1 2 3 4 5 6 7 8 9");
-
+            drawField(battlefield1);
             System.out.println("Please enter OX coordinate: ");
             int x = scanner.nextInt();
             System.out.println("Please enter OY coordinate: ");
@@ -51,11 +51,11 @@ public class BattleShip {
                 System.out.print(i + " ");
                 if (battlefield[i][j] == 0) {
                     System.out.print("- ");
+                } else {
+                    System.out.print("X ");
                 }
-
             }
-
-            System.out.println(i + " - - - - - - - - - -");
+            System.out.println();
         }
     }
 }
