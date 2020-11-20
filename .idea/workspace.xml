@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.1 Создать метод, принимающий на вход число – размерность массива. Необходимо вернуть новый массив чисел заданной размерности." />
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.1 Покрыть метод тестами" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,8 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="TestNG Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -169,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Задала созданную строку">
-      <created>1601049616806</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1601049616806</updated>
     </task>
     <task id="LOCAL-00047" summary="Исправила неправильное задание строки (забыла еще два аргумента, указывающие половежие этой строки на поле)">
       <created>1601049705990</created>
@@ -513,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605881098977</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="2.1 Покрыть метод тестами">
+      <created>1605881530769</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1605881530769</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +529,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Хочу занести рисовку поля в специально написанный метод, чтобы было проще рисовать поле, просто вызвав метод" />
     <MESSAGE value="Перенесла рисовку поля в специальный метод" />
     <MESSAGE value="Уточнила сколько и каких кораблей нужно ставить, так же в цикле хочу сделать, чтобы сначала выводилась надпись о том, какой кораблиу нужно ставить, так же попросила написать координату Х" />
     <MESSAGE value="Ввела координату х с консоли и запихнула ее в переменную" />
@@ -554,7 +553,8 @@
     <MESSAGE value="исправила ту ошибку, нашла новую" />
     <MESSAGE value="ошибку не нашла, зато сделала поле соперника" />
     <MESSAGE value="2.1 Создать метод, принимающий на вход число – размерность массива. Необходимо вернуть новый массив чисел заданной размерности." />
-    <option name="LAST_COMMIT_MESSAGE" value="2.1 Создать метод, принимающий на вход число – размерность массива. Необходимо вернуть новый массив чисел заданной размерности." />
+    <MESSAGE value="2.1 Покрыть метод тестами" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.1 Покрыть метод тестами" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
