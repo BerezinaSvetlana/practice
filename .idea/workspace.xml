@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.10 Создать метод, возвращающий массив входной размерности, представляющий собой геометрическую прогрессию, где первый элемент и знаменатель являются также выходными параметрами. Покрыть метод тестами с заданной точностью.">
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.11 Создать метод, возвращающий массив, содержащий все делители целого числа, являющегося входным аргументом метода. Покрыть метод тестами. Примечание: делитель числа не может быть больше, чем корень из этого числа.&#10;странное примечание, из-за него некоторые делители не подходят под условия. Например 3, если брать n=6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,13 +187,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Создала переменную для второго игрока">
-      <created>1601142322389</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1601142322389</updated>
     </task>
     <task id="LOCAL-00062" summary="Добавила static">
       <created>1601142614668</created>
@@ -531,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605947709334</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="2.11 Создать метод, возвращающий массив, содержащий все делители целого числа, являющегося входным аргументом метода. Покрыть метод тестами. Примечание: делитель числа не может быть больше, чем корень из этого числа.&#10;странное примечание, из-за него некоторые делители не подходят под условия. Например 3, если брать n=6">
+      <created>1605950377968</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1605950377968</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,7 +547,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="расставление корабликов" />
     <MESSAGE value="запихиваю процесс расставления корабликов в цикл, попутно исправляю все недочеты" />
     <MESSAGE value="закинула некрасивый код в цикл" />
     <MESSAGE value="поняла, что нужен другой метод для рисовки поля, так как с добавлением корабликов поле не должно оставаться пустым и должно меняться. Ну и подругому назвала старый метод, так как он отвечает за расстановку корабликов на поле" />
@@ -572,7 +571,8 @@
     <MESSAGE value="2.8 Создать метод, возвращающий массив входной размерности, содержащий в себе натуральные числа, начиная с 1, за исключением тех, что делятся на 3. Покрыть метод тестами." />
     <MESSAGE value="2.9 Создать метод, возвращающий массив входной размерности, представляющий собой арифметическую прогрессию, где первый элемент и разность являются также входными параметрами. Покрыть метод тестами." />
     <MESSAGE value="2.10 Создать метод, возвращающий массив входной размерности, представляющий собой геометрическую прогрессию, где первый элемент и знаменатель являются также выходными параметрами. Покрыть метод тестами с заданной точностью." />
-    <option name="LAST_COMMIT_MESSAGE" value="2.10 Создать метод, возвращающий массив входной размерности, представляющий собой геометрическую прогрессию, где первый элемент и знаменатель являются также выходными параметрами. Покрыть метод тестами с заданной точностью." />
+    <MESSAGE value="2.11 Создать метод, возвращающий массив, содержащий все делители целого числа, являющегося входным аргументом метода. Покрыть метод тестами. Примечание: делитель числа не может быть больше, чем корень из этого числа.&#10;странное примечание, из-за него некоторые делители не подходят под условия. Например 3, если брать n=6" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.11 Создать метод, возвращающий массив, содержащий все делители целого числа, являющегося входным аргументом метода. Покрыть метод тестами. Примечание: делитель числа не может быть больше, чем корень из этого числа.&#10;странное примечание, из-за него некоторые делители не подходят под условия. Например 3, если брать n=6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -595,34 +595,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601140669202" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605949779369">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605950276070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605949779369" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605949779369">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605950276070" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605950276070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605949779369" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605949779369">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605950276070" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605950276069">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605949779369" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605949779369">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605950276069" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605950276070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605949779369" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605950276070" />
     <state x="516" y="115" key="RollbackChangesDialog" timestamp="1600783631726">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600783631726" />
-    <state x="490" y="155" key="Vcs.Push.Dialog.v2" timestamp="1605930721433">
+    <state x="490" y="155" key="Vcs.Push.Dialog.v2" timestamp="1605950394269">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="490" y="155" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605930721433" />
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605948635579">
+    <state x="490" y="155" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605950394269" />
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605953912103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1605948635579" />
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1605953912103" />
     <state x="0" y="36" width="1125" height="810" key="dock-window-1" timestamp="1601140826197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
