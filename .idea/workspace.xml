@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2,6 Создать метод, возвращающий массив входной размерности, каждый элемент которого равен квадрату своего индекса.">
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.6 немного изменила код и добавила тесты">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,59 +78,7 @@
       <recent name="C:\Users\User\IdeaProjects\practice\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Number2_6Test.testNumber">
-    <configuration name="Number2_3Test.testNumber" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="berezinasvetlana-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice" />
-      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_3Test" />
-      <option name="METHOD_NAME" value="testNumber" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Number2_4Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="berezinasvetlana-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice" />
-      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_4Test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Number2_5Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="berezinasvetlana-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice" />
-      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_5Test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Number2_7Test._1test">
     <configuration name="Number2_5Test.testNumber" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
@@ -167,13 +115,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Number2_7Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="berezinasvetlana-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice" />
+      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_7Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Number2_7Test._1test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="berezinasvetlana-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice" />
+      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_7Test" />
+      <option name="METHOD_NAME" value="_1test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Number2_7Test.testDiscriminant" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="berezinasvetlana-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice" />
+      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_7Test" />
+      <option name="METHOD_NAME" value="testDiscriminant" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Number2_7Test._1test" />
+        <item itemvalue="TestNG.Number2_7Test" />
+        <item itemvalue="TestNG.Number2_7Test.testDiscriminant" />
         <item itemvalue="TestNG.Number2_6Test.testNumber" />
         <item itemvalue="TestNG.Number2_5Test.testNumber" />
-        <item itemvalue="TestNG.Number2_5Test" />
-        <item itemvalue="TestNG.Number2_4Test" />
-        <item itemvalue="TestNG.Number2_3Test.testNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -185,13 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00056" summary="попробовала реализовать сумму">
-      <created>1601139216527</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1601139216527</updated>
     </task>
     <task id="LOCAL-00057" summary="Создала пакет в котором буду пытатьре реализовать игру морской бой">
       <created>1601141355720</created>
@@ -529,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605941418195</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="2.6 немного изменила код и добавила тесты">
+      <created>1605942409487</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1605942409487</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -545,7 +546,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Еще раз переименовала оба массива, потому что то название было плохое, оно не давало понятия о том, что хранится в массиве" />
     <MESSAGE value="Написала циклы, которые будут перебирать значения в массиве. Завтра буду думать как с помощью них разместить корабли на поле" />
     <MESSAGE value="Нечаянно удалила тело метода, восстановила из репозитория" />
     <MESSAGE value="исправила грамматические ошибки)" />
@@ -570,7 +570,8 @@
     <MESSAGE value="2.5 Создать метод, возвращающий массив из первых n чисел Фибоначчи." />
     <MESSAGE value="2.5 tests" />
     <MESSAGE value="2,6 Создать метод, возвращающий массив входной размерности, каждый элемент которого равен квадрату своего индекса." />
-    <option name="LAST_COMMIT_MESSAGE" value="2,6 Создать метод, возвращающий массив входной размерности, каждый элемент которого равен квадрату своего индекса." />
+    <MESSAGE value="2.6 немного изменила код и добавила тесты" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.6 немного изменила код и добавила тесты" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -593,22 +594,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601140669202" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605941766654">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605943734031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605941766654" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605941766653">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605943734031" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605943734031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605941766653" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605941766653">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605943734031" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605943734031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605941766653" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605941766653">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605943734031" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605943734031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605941766653" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605943734031" />
     <state x="516" y="115" key="RollbackChangesDialog" timestamp="1600783631726">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -617,10 +618,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="155" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605930721433" />
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605941453868">
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605942878136">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1605941453868" />
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1605942878136" />
     <state x="0" y="36" width="1125" height="810" key="dock-window-1" timestamp="1601140826197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
