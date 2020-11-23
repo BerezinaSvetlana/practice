@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.20 1.1Создать метод, принимающий на вход массив целых чисел и возвращающий значение типа boolean. Значение должно равняться true, если количество элементов, делящихся на первый элемент массива, больше количества элементов, делящихся на последний элемент массива. В остальных случаях метод должен вернуть false. Покрыть метод тестами." />
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.21 Создать метод, принимающий на вход массив чисел и возвращающий элемент, который встречается в массиве чаще всего. Если таких элементов несколько, возвращать тот, который раньше встречается. Покрыть метод тестами." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,8 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="TestNG Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -76,24 +76,7 @@
       <recent name="C:\Users\User\IdeaProjects\practice\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Number2_21Test.testGetNumber">
-    <configuration name="Number2_16Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="berezinasvetlana-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice" />
-      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_16Test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Number2_22Test.testGetIndexOftenNumber">
     <configuration name="Number2_17Test.testQuantity" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
@@ -166,13 +149,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Number2_22Test.testGetIndexOftenNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="berezinasvetlana-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice" />
+      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_22Test" />
+      <option name="METHOD_NAME" value="testGetIndexOftenNumber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Number2_22Test.testGetIndexOftenNumber" />
         <item itemvalue="TestNG.Number2_21Test.testGetNumber" />
         <item itemvalue="TestNG.Number2_20Test.testSetArray" />
         <item itemvalue="TestNG.Number2_19Test.testSetArrayEven" />
         <item itemvalue="TestNG.Number2_17Test.testQuantity" />
-        <item itemvalue="TestNG.Number2_16Test" />
       </list>
     </recent_temporary>
   </component>
@@ -184,13 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Хочу занести рисовку поля в специально написанный метод, чтобы было проще рисовать поле, просто вызвав метод">
-      <created>1601144948031</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1601144948031</updated>
     </task>
     <task id="LOCAL-00071" summary="Перенесла рисовку поля в специальный метод">
       <created>1601145054430</created>
@@ -528,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606158084296</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="2.21 Создать метод, принимающий на вход массив чисел и возвращающий элемент, который встречается в массиве чаще всего. Если таких элементов несколько, возвращать тот, который раньше встречается. Покрыть метод тестами.">
+      <created>1606158691932</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1606158691932</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +545,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.1 Создать метод, принимающий на вход число – размерность массива. Необходимо вернуть новый массив чисел заданной размерности." />
     <MESSAGE value="2.1 Покрыть метод тестами" />
     <MESSAGE value="2,2 Создать метод, генерирующий массив чисел по входной размерности. Массив должен быть заполнен единицами, кроме первого и последнего элемента – на их месте должны быть двойки. Метод должен возвращаться созданный массив." />
     <MESSAGE value="2.2 tests" />
@@ -569,7 +569,8 @@
     <MESSAGE value="2.18 1.1Создать метод, принимающий на вход массив целых чисел и возвращающий максимальный элемент в массиве. Если массив не содержит элементов, то вернуть null. Покрыть метод тестами." />
     <MESSAGE value="2.19 1.1Создать метод, принимающий на вход массив чисел и возвращающий сумму всех чисел с чётными индексами. Покрыть метод тестами." />
     <MESSAGE value="2.20 1.1Создать метод, принимающий на вход массив целых чисел и возвращающий значение типа boolean. Значение должно равняться true, если количество элементов, делящихся на первый элемент массива, больше количества элементов, делящихся на последний элемент массива. В остальных случаях метод должен вернуть false. Покрыть метод тестами." />
-    <option name="LAST_COMMIT_MESSAGE" value="2.20 1.1Создать метод, принимающий на вход массив целых чисел и возвращающий значение типа boolean. Значение должно равняться true, если количество элементов, делящихся на первый элемент массива, больше количества элементов, делящихся на последний элемент массива. В остальных случаях метод должен вернуть false. Покрыть метод тестами." />
+    <MESSAGE value="2.21 Создать метод, принимающий на вход массив чисел и возвращающий элемент, который встречается в массиве чаще всего. Если таких элементов несколько, возвращать тот, который раньше встречается. Покрыть метод тестами." />
+    <option name="LAST_COMMIT_MESSAGE" value="2.21 Создать метод, принимающий на вход массив чисел и возвращающий элемент, который встречается в массиве чаще всего. Если таких элементов несколько, возвращать тот, который раньше встречается. Покрыть метод тестами." />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -596,22 +597,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601140669202" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606158041922">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606158486630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606158041922" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606158041922">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606158486630" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606158486630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606158041922" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606158041922">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606158486630" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606158486630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606158041922" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606158041922">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606158486630" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606158486630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606158041922" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606158486630" />
     <state x="516" y="115" key="RollbackChangesDialog" timestamp="1600783631726">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
