@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.15 Создать метод, принимающий на вход массив чисел и одно число. Метод должен вернуть значение типа boolean, содержится ли данное число в этом массиве. Покрыть метод тестами.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.17 Создать метод, принимающий на вход массив чисел и возвращающий количество чётных чисел в массиве. Покрыть метод тестами." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,13 +184,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Хочу чтобы имена вводились с консоли, для этого прописываю сканер">
-      <created>1601143462488</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1601143462488</updated>
     </task>
     <task id="LOCAL-00067" summary="считываем с помощью сканера имя игрока и заносим его в переменную">
       <created>1601143793003</created>
@@ -530,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605956133708</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="2.17 Создать метод, принимающий на вход массив чисел и возвращающий количество чётных чисел в массиве. Покрыть метод тестами.">
+      <created>1606157000792</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1606157000792</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,7 +544,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="добавила вывод прочерка, если корабля нет на &quot;клетке&quot;" />
     <MESSAGE value="добавила вызов метода, но работает криво, где-то ошибка" />
     <MESSAGE value="исправила ту ошибку, нашла новую" />
     <MESSAGE value="ошибку не нашла, зато сделала поле соперника" />
@@ -571,7 +568,8 @@
     <MESSAGE value="2.13 Создать метод, возвращающий массив входной размерности, содержащий идущие друг за другом в порядке возрастания натуральные числа до середины массива. После середины массив должен быть заполнен так, чтобы выглядел симметрично." />
     <MESSAGE value="2.14 1.1Создать метод, не возвращающий ничего, принимающий на вход массив чисел и меняющий в каждом элементе этого массива знак на противоположный. Покрыть метод тестами." />
     <MESSAGE value="2.15 Создать метод, принимающий на вход массив чисел и одно число. Метод должен вернуть значение типа boolean, содержится ли данное число в этом массиве. Покрыть метод тестами." />
-    <option name="LAST_COMMIT_MESSAGE" value="2.15 Создать метод, принимающий на вход массив чисел и одно число. Метод должен вернуть значение типа boolean, содержится ли данное число в этом массиве. Покрыть метод тестами." />
+    <MESSAGE value="2.17 Создать метод, принимающий на вход массив чисел и возвращающий количество чётных чисел в массиве. Покрыть метод тестами." />
+    <option name="LAST_COMMIT_MESSAGE" value="2.17 Создать метод, принимающий на вход массив чисел и возвращающий количество чётных чисел в массиве. Покрыть метод тестами." />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -598,22 +596,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601140669202" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606156874414">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606156940024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606156874414" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606156874414">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606156940024" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606156940016">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606156874414" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606156874414">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606156940016" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606156940016">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606156874414" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606156874414">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606156940016" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606156940024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606156874414" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606156940024" />
     <state x="516" y="115" key="RollbackChangesDialog" timestamp="1600783631726">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -622,10 +620,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="155" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605956676875" />
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606156597340">
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606157120059">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1606156597340" />
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1606157120059" />
     <state x="0" y="36" width="1125" height="810" key="dock-window-1" timestamp="1601140826197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
