@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.27 and tests" />
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.28 and tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,8 +34,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="TestNG Test Class" />
         <option value="Class" />
+        <option value="TestNG Test Class" />
       </list>
     </option>
   </component>
@@ -79,25 +81,7 @@
       <recent name="C:\Users\User\IdeaProjects\practice\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Number2_28Test.testLongToInt">
-    <configuration name="Number2_24Test.testGetArray" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="berezinasvetlana-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice" />
-      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_24Test" />
-      <option name="METHOD_NAME" value="testGetArray" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Number2_29Test.testGetArray">
     <configuration name="Number2_25Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
@@ -169,13 +153,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Number2_29Test.testGetArray" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="berezinasvetlana-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice" />
+      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_29Test" />
+      <option name="METHOD_NAME" value="testGetArray" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Number2_29Test.testGetArray" />
         <item itemvalue="TestNG.Number2_28Test.testLongToInt" />
         <item itemvalue="TestNG.Number2_27Test.testSetArray" />
         <item itemvalue="TestNG.Number2_26Test.testSum_Array" />
         <item itemvalue="TestNG.Number2_25Test" />
-        <item itemvalue="TestNG.Number2_24Test.testGetArray" />
       </list>
     </recent_temporary>
   </component>
@@ -187,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00077" summary="Записала выбор участника в переменную">
-      <created>1601222090647</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1601222090647</updated>
     </task>
     <task id="LOCAL-00078" summary="Создала двумерный массив, чтобы хранить в нем координаты корабликов">
       <created>1601222783425</created>
@@ -531,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606227493701</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="2.28 and tests">
+      <created>1606228175621</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1606228175621</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,7 +549,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.4 tests" />
     <MESSAGE value="2.5 Создать метод, возвращающий массив из первых n чисел Фибоначчи." />
     <MESSAGE value="2.5 tests" />
     <MESSAGE value="2,6 Создать метод, возвращающий массив входной размерности, каждый элемент которого равен квадрату своего индекса." />
@@ -572,7 +573,8 @@
     <MESSAGE value="2.25" />
     <MESSAGE value="2.26 and tests" />
     <MESSAGE value="2.27 and tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.27 and tests" />
+    <MESSAGE value="2.28 and tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.28 and tests" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -599,22 +601,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601140669202" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606227446754">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606228812010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606227446754" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606227446754">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606228812010" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606228812010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606227446754" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606227446754">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606228812010" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606228812010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606227446754" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606227446754">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606228812010" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606228812010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606227446754" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606228812010" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1606227363189">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -639,10 +641,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="155" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606160538969" />
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606226845452">
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606228553048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1606226845452" />
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1606228553048" />
     <state x="0" y="36" width="1125" height="810" key="dock-window-1" timestamp="1601140826197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
