@@ -22,9 +22,86 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="2.30, но тесты почему-то не работают, не могу понять где ошибка">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_6.java" afterDir="false" />
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="классы, которые не добывились в репозиторий">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_31/Matrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_31/Matrices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_31/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_31/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_/Number2_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_10Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_10Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_11Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_11Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_12Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_12Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_13Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_13Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_14Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_14Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_15Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_15Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_16Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_16Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_17Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_17Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_18Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_18Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_19Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_19Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_20Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_20Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_21Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_21Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_22Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_22Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_23Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_23Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_24Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_24Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_25Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_25Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_26Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_26Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_27Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_27Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_28Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_28Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_29Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_29Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_30Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_30Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_5Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_6Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_7Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_7Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_8Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_8Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_9Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_9Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ssau/tk/berezinasvetlana/practice/Task1/Point/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ssau/tk/berezinasvetlana/practice/Task1/Point/Points.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ssau/tk/berezinasvetlana/practice/Task1/Sea_battle/BattleShip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ssau/tk/berezinasvetlana/practice/Task1/Snake/GameField$FieldKeyListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ssau/tk/berezinasvetlana/practice/Task1/Snake/GameField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ssau/tk/berezinasvetlana/practice/Task1/Snake/MainWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/PersonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_1Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_3Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_4Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +190,7 @@
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
+          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,7 +208,7 @@
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
+          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,7 +226,7 @@
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.*" />
+          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,20 +258,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00080" summary="Еще раз переименовала оба массива, потому что то название было плохое, оно не давало понятия о том, что хранится в массиве">
-      <created>1601222917989</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1601222917989</updated>
-    </task>
-    <task id="LOCAL-00081" summary="Написала циклы, которые будут перебирать значения в массиве. Завтра буду думать как с помощью них разместить корабли на поле">
-      <created>1601223210505</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1601223210505</updated>
     </task>
     <task id="LOCAL-00082" summary="Нечаянно удалила тело метода, восстановила из репозитория">
       <created>1601389472074</created>
@@ -525,7 +588,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606335537179</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="2.30, но тесты почему-то не работают, не могу понять где ошибка">
+      <created>1607273838247</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1607273838247</updated>
+    </task>
+    <task id="LOCAL-00130" summary="классы, которые не добывились в репозиторий">
+      <created>1607274245591</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1607274245591</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -541,7 +618,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2,6 Создать метод, возвращающий массив входной размерности, каждый элемент которого равен квадрату своего индекса." />
     <MESSAGE value="2.6 немного изменила код и добавила тесты" />
     <MESSAGE value="2.7 Создать метод, принимающий на вход a, b и c – дробные числа, соответствующие коэффициентам квадратного уравнения. Метод должен возвращать решение в виде массива: если решений нет, то массив должен быть пуст (0 элементов). Если решение одно, то массив должен иметь размерность 1 и в нём должно содержаться это единственное решение. Если решений два, то массив должен иметь размерность 2 и содержать в себе оба решения в порядке возрастания. Покрыть метод тестами (с заданной точностью). Не забывать, что a может быть равно 0." />
     <MESSAGE value="2.8 Создать метод, возвращающий массив входной размерности, содержащий в себе натуральные числа, начиная с 1, за исключением тех, что делятся на 3. Покрыть метод тестами." />
@@ -566,7 +642,8 @@
     <MESSAGE value="2.28 and tests" />
     <MESSAGE value="2.29 and test" />
     <MESSAGE value="2.30, но тесты почему-то не работают, не могу понять где ошибка" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.30, но тесты почему-то не работают, не могу понять где ошибка" />
+    <MESSAGE value="классы, которые не добывились в репозиторий" />
+    <option name="LAST_COMMIT_MESSAGE" value="классы, которые не добывились в репозиторий" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -629,10 +706,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600783631726" />
-    <state x="490" y="155" key="Vcs.Push.Dialog.v2" timestamp="1606375789675">
+    <state x="490" y="155" key="Vcs.Push.Dialog.v2" timestamp="1607275477887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="490" y="155" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606375789675" />
+    <state x="490" y="155" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607275477887" />
     <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606334351942">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -655,7 +732,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_14Test.java</url>
-          <line>9</line>
+          <line>10</line>
           <properties class="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_14Test" method="testSetArray">
             <option name="EMULATED" value="true" />
           </properties>
@@ -663,7 +740,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number2_15Test.java</url>
-          <line>10</line>
+          <line>11</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
