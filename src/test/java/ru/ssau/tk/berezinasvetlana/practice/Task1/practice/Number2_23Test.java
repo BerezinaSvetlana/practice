@@ -1,7 +1,6 @@
 package ru.ssau.tk.berezinasvetlana.practice.Task1.practice;
 
 import org.testng.annotations.Test;
-import ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number2_.Number2_23;
 
 import static org.testng.Assert.*;
 
