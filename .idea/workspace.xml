@@ -22,9 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="test 3.1">
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="3.2 and tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,13 +86,13 @@
       <recent name="C:\Users\User\IdeaProjects\practice\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Number3_2Test.testGetStr">
-    <configuration name="BattleShip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.Sea_battle.BattleShip" />
+  <component name="RunManager" selected="Application.Number3_3">
+    <configuration name="Number3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_.Number3_3" />
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.Sea_battle.*" />
+          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number3_3" />
         <item itemvalue="TestNG.Number3_2Test.testGetStr" />
         <item itemvalue="TestNG.Number3_2Test" />
         <item itemvalue="TestNG.Number3_1Test.testSetString" />
         <item itemvalue="TestNG.ru.ssau.tk.berezinasvetlana.practice.Task1" />
-        <item itemvalue="Application.BattleShip" />
       </list>
     </recent_temporary>
   </component>
@@ -187,13 +187,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00087" summary="закинула некрасивый код в цикл">
-      <created>1605097152969</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1605097152969</updated>
     </task>
     <task id="LOCAL-00088" summary="поняла, что нужен другой метод для рисовки поля, так как с добавлением корабликов поле не должно оставаться пустым и должно меняться. Ну и подругому назвала старый метод, так как он отвечает за расстановку корабликов на поле">
       <created>1605097520728</created>
@@ -531,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607544501545</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="3.2 and tests">
+      <created>1607550851357</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1607550851357</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,7 +547,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.11 Создать метод, возвращающий массив, содержащий все делители целого числа, являющегося входным аргументом метода. Покрыть метод тестами. Примечание: делитель числа не может быть больше, чем корень из этого числа.&#10;странное примечание, из-за него некоторые делители не подходят под условия. Например 3, если брать n=6" />
     <MESSAGE value="2.12 Создать метод, возвращающий массив, содержащий все положительные простые числа до входного числа включительно. Покрыть метод тестами" />
     <MESSAGE value="2.13 Создать метод, возвращающий массив входной размерности, содержащий идущие друг за другом в порядке возрастания натуральные числа до середины массива. После середины массив должен быть заполнен так, чтобы выглядел симметрично." />
     <MESSAGE value="2.14 1.1Создать метод, не возвращающий ничего, принимающий на вход массив чисел и меняющий в каждом элементе этого массива знак на противоположный. Покрыть метод тестами." />
@@ -572,7 +571,8 @@
     <MESSAGE value="3.1" />
     <MESSAGE value="вернула все обратно, потому что все поломалось" />
     <MESSAGE value="test 3.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 3.1" />
+    <MESSAGE value="3.2 and tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.2 and tests" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
