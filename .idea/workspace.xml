@@ -22,9 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="3.10 and tests">
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="3.11 and tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <recent name="C:\Users\User\IdeaProjects\practice\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Number3_11Test.testNumberOfString">
+  <component name="RunManager" selected="TestNG.Number3_12Test.testStrings">
     <configuration name="Number3_10Test.testSetString" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
@@ -123,7 +123,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number3_7Test.testIndexStr" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Number3_12Test.testStrings" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +132,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_" />
-      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_.Number3_7Test" />
-      <option name="METHOD_NAME" value="testIndexStr" />
+      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_.Number3_12Test" />
+      <option name="METHOD_NAME" value="testStrings" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Number3_12Test.testStrings" />
         <item itemvalue="TestNG.Number3_11Test.testNumberOfString" />
         <item itemvalue="TestNG.Number3_10Test.testSetString" />
         <item itemvalue="TestNG.Number3_9Test.testGetIndexOf" />
         <item itemvalue="TestNG.Number3_8Test.testIndexOf" />
-        <item itemvalue="TestNG.Number3_7Test.testIndexStr" />
       </list>
     </recent_temporary>
   </component>
@@ -195,13 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00097" summary="2.2 tests">
-      <created>1605882597354</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1605882597354</updated>
     </task>
     <task id="LOCAL-00098" summary="2.3 Создать метод, генерирующий массив чисел по входной размерности. Заполнить массив последовательностью возрастающих нечётных чисел 1, 3, 5, … и вернуть его в качестве результата.">
       <created>1605882765544</created>
@@ -539,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607555518390</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="3.11 and tests">
+      <created>1608216450493</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1608216450493</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -555,7 +555,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.22 Создать метод, принимающий на вход массив чисел и ещё одно число. Метод должен возвращать индекс первого элемента, равного входному числу. Покрыть метод тестами." />
     <MESSAGE value="2.23 Создать метод, принимающий на вход массив чисел и не возвращающий ничего. Метод должен поменять первый максимальный и первый минимальный элементы массива. Покрыть метод тестами." />
     <MESSAGE value="2.24" />
     <MESSAGE value="2.25" />
@@ -580,7 +579,8 @@
     <MESSAGE value="3.8 and tests" />
     <MESSAGE value="3.9 and tests" />
     <MESSAGE value="3.10 and tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.10 and tests" />
+    <MESSAGE value="3.11 and tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.11 and tests" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -619,22 +619,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601140669202" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1608141063698">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608216865746">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608141063698" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1608141063698">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608216865746" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608216865746">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608141063698" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1608141063698">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608216865746" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608216865746">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608141063698" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1608141063698">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608216865746" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608216865746">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608141063698" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608216865746" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1608141063698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -663,10 +663,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1607544256626" />
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1607555229931">
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1608216630222">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1607555229931" />
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1608216630222" />
     <state x="0" y="36" width="1125" height="810" key="dock-window-1" timestamp="1601140826197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
