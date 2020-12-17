@@ -52,9 +52,4 @@ public class Person {
         System.out.println("Name: " + Abrosimova_name + " " + "Height: " + Abrosimova_height + " " +"Weight: " + Abrosimova_weight);
     }
 
-    @Override
-    public String toString() {
-        return firstName + (firstName.isEmpty() || lastName.isEmpty() ? "" : " ") + lastName;
-    }
-
 }

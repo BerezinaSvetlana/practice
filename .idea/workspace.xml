@@ -22,7 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="тесты красным подсвечивались" />
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="3,18">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_19.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +89,7 @@
       <recent name="C:\Users\User\IdeaProjects\practice\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Number3_13Test.testGetStringOfIndex">
+  <component name="RunManager" selected="TestNG.Number3_19Test.testParseStringOnArray">
     <configuration name="Number3_10Test.testSetString" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
@@ -156,7 +162,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number3_9Test.testGetIndexOf" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Number3_19Test.testParseStringOnArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
         <pattern>
@@ -165,8 +171,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_" />
-      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_.Number3_9Test" />
-      <option name="METHOD_NAME" value="testGetIndexOf" />
+      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_.Number3_19Test" />
+      <option name="METHOD_NAME" value="testParseStringOnArray" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -176,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Number3_19Test.testParseStringOnArray" />
         <item itemvalue="TestNG.Number3_13Test.testGetStringOfIndex" />
         <item itemvalue="TestNG.Number3_12Test.testStrings" />
         <item itemvalue="TestNG.Number3_11Test.testNumberOfString" />
         <item itemvalue="TestNG.Number3_10Test.testSetString" />
-        <item itemvalue="TestNG.Number3_9Test.testGetIndexOf" />
       </list>
     </recent_temporary>
   </component>
@@ -192,13 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00101" summary="2.4 tests">
-      <created>1605884190138</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1605884190138</updated>
     </task>
     <task id="LOCAL-00102" summary="2.5 Создать метод, возвращающий массив из первых n чисел Фибоначчи.">
       <created>1605884382956</created>
@@ -536,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608223404915</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="3,18">
+      <created>1608232534725</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1608232534725</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,7 +558,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.26 and tests" />
     <MESSAGE value="2.27 and tests" />
     <MESSAGE value="2.28 and tests" />
     <MESSAGE value="2.29 and test" />
@@ -577,7 +582,8 @@
     <MESSAGE value="3.12 and tests" />
     <MESSAGE value="create 3.13 and tests" />
     <MESSAGE value="тесты красным подсвечивались" />
-    <option name="LAST_COMMIT_MESSAGE" value="тесты красным подсвечивались" />
+    <MESSAGE value="3,18" />
+    <option name="LAST_COMMIT_MESSAGE" value="3,18" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -660,10 +666,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1607544256626" />
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1608219242915">
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1608232816858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1608219242915" />
+    <state x="532" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1608232816858" />
     <state x="0" y="36" width="1125" height="810" key="dock-window-1" timestamp="1601140826197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
