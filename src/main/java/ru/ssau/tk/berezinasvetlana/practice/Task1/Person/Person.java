@@ -51,4 +51,10 @@ public class Person {
         System.out.println("Name: " + Berezina_name + " " + "Height: " + Berezina_height + " " + "Weight: " + Berezina_weight);
         System.out.println("Name: " + Abrosimova_name + " " + "Height: " + Abrosimova_height + " " +"Weight: " + Abrosimova_weight);
     }
+
+    @Override
+    public String toString() {
+        return firstName + (firstName.isEmpty() || lastName.isEmpty() ? "" : " ") + lastName;
+    }
+
 }

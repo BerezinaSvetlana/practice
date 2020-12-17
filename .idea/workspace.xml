@@ -22,8 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="3.12 and tests">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_13.java" afterDir="false" />
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="create 3.13 and tests">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_11Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_12Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_13Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_14.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,13 +199,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00099" summary="2.3 tests">
-      <created>1605883002931</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1605883002931</updated>
     </task>
     <task id="LOCAL-00100" summary="2.4 Создать метод, генерирующий массив чисел по входной размерности. Заполнить массив последовательностью убывающих чётных чисел, так, чтобы последним элементом была 2 (например, 10, 8, 6, 4, 2). Вернуть массив в качестве результата">
       <created>1605883970313</created>
@@ -538,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608218835884</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="create 3.13 and tests">
+      <created>1608219400510</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1608219400510</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,7 +559,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.24" />
     <MESSAGE value="2.25" />
     <MESSAGE value="2.26 and tests" />
     <MESSAGE value="2.27 and tests" />
@@ -579,7 +583,8 @@
     <MESSAGE value="3.10 and tests" />
     <MESSAGE value="3.11 and tests" />
     <MESSAGE value="3.12 and tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.12 and tests" />
+    <MESSAGE value="create 3.13 and tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="create 3.13 and tests" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -618,22 +623,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601140669202" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608216865746">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608219356865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608216865746" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608216865746">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608219356865" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608219356864">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608216865746" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608216865746">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608219356864" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608219356864">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608216865746" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608216865746">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608219356864" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608219356864">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608216865746" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608219356864" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1608141063698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
