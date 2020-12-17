@@ -22,14 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="create 3.13 and tests">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_11Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_12Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_13Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_14.java" beforeDir="false" />
-    </list>
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="тесты красным подсвечивались" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,13 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00100" summary="2.4 Создать метод, генерирующий массив чисел по входной размерности. Заполнить массив последовательностью убывающих чётных чисел, так, чтобы последним элементом была 2 (например, 10, 8, 6, 4, 2). Вернуть массив в качестве результата">
-      <created>1605883970313</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1605883970313</updated>
     </task>
     <task id="LOCAL-00101" summary="2.4 tests">
       <created>1605884190138</created>
@@ -543,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608219400510</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="тесты красным подсвечивались">
+      <created>1608223404915</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1608223404915</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -559,7 +552,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.25" />
     <MESSAGE value="2.26 and tests" />
     <MESSAGE value="2.27 and tests" />
     <MESSAGE value="2.28 and tests" />
@@ -584,7 +576,8 @@
     <MESSAGE value="3.11 and tests" />
     <MESSAGE value="3.12 and tests" />
     <MESSAGE value="create 3.13 and tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="create 3.13 and tests" />
+    <MESSAGE value="тесты красным подсвечивались" />
+    <option name="LAST_COMMIT_MESSAGE" value="тесты красным подсвечивались" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
