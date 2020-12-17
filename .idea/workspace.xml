@@ -22,9 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="create 3.19 and tests">
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="3.20 и тесты красным">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/practice/Number3_/Number3_21.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +86,9 @@
       <recent name="C:\Users\User\IdeaProjects\practice\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Number3_20Test.testGetStr">
-    <configuration name="Number3_11Test.testNumberOfString" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Number3_21">
+    <configuration name="Number3_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_.Number3_21" />
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +96,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_" />
-      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_.Number3_11Test" />
-      <option name="METHOD_NAME" value="testNumberOfString" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -179,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number3_21" />
         <item itemvalue="TestNG.Number3_20Test.testGetStr" />
         <item itemvalue="TestNG.Number3_19Test.testParseStringOnArray" />
         <item itemvalue="TestNG.Number3_13Test.testGetStringOfIndex" />
         <item itemvalue="TestNG.Number3_12Test.testStrings" />
-        <item itemvalue="TestNG.Number3_11Test.testNumberOfString" />
       </list>
     </recent_temporary>
   </component>
@@ -195,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00103" summary="2.5 tests">
-      <created>1605884933732</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1605884933732</updated>
     </task>
     <task id="LOCAL-00104" summary="2,6 Создать метод, возвращающий массив входной размерности, каждый элемент которого равен квадрату своего индекса.">
       <created>1605941418194</created>
@@ -539,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608233456325</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="3.20 и тесты красным">
+      <created>1608233931910</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1608233931910</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -555,7 +550,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.28 and tests" />
     <MESSAGE value="2.29 and test" />
     <MESSAGE value="2.30, но тесты почему-то не работают, не могу понять где ошибка" />
     <MESSAGE value="классы, которые не добывились в репозиторий" />
@@ -580,7 +574,8 @@
     <MESSAGE value="тесты красным подсвечивались" />
     <MESSAGE value="3,18" />
     <MESSAGE value="create 3.19 and tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="create 3.19 and tests" />
+    <MESSAGE value="3.20 и тесты красным" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.20 и тесты красным" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -619,22 +614,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601140669202" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608233777345">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608234658469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608233777345" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608233777345">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608234658469" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608234658469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608233777345" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608233777345">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608234658469" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608234658469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608233777345" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608233777345">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608234658469" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608234658469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608233777345" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608234658469" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1608141063698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
