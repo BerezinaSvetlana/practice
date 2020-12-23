@@ -13,14 +13,14 @@ public class Person {
         grandmother.setPassportId(2);
 
         Person brother_1 = new Person();
-        grandmother.setLastName("Berezin");
-        grandmother.setFirstName("Anton");
-        grandmother.setPassportId(3);
+        brother_1.setLastName("Berezin");
+        brother_1.setFirstName("Anton");
+        brother_1.setPassportId(3);
 
         Person brother_2 = new Person();
-        grandmother.setLastName("Vaxlanov");
-        grandmother.setFirstName("Bogdan");
-        grandmother.setPassportId(4);
+        brother_2.setLastName("Vaxlanov");
+        brother_2.setFirstName("Bogdan");
+        brother_2.setPassportId(4);
 
         System.out.println(grandfather.getFirstName() + ' ' + grandfather.getLastName() + ' ' + grandfather.getPassportId());
         System.out.println(grandmother.getFirstName() + ' ' + grandmother.getLastName() + ' ' + grandmother.getPassportId());
