@@ -6,8 +6,8 @@ import static org.testng.Assert.*;
 
 public class PersonTest {
 
-    Person Berezina = new Person("Svetlana",172, 70);
-    Person Abrosimova = new Person("Margo",158, 44);
+    Person_no_practice Berezina = new Person_no_practice("Svetlana",172, 70);
+    Person_no_practice Abrosimova = new Person_no_practice("Margo",158, 44);
 
     @Test
     public void testGetName() {

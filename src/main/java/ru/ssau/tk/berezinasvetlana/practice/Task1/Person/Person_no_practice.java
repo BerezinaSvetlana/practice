@@ -1,12 +1,12 @@
 package ru.ssau.tk.berezinasvetlana.practice.Task1.Person;
 
-public class Person {
+public class Person_no_practice {
 
     public String name;
     public double height;
     public double weight;
 
-    public Person(String name, double height, double weight) {
+    public Person_no_practice(String name, double height, double weight) {
         this.name = name;
         this.height = height;
         this.weight = weight;
@@ -38,12 +38,12 @@ public class Person {
 
     public static void main(String[] args) {
 
-        Person Berezina = new Person("Svetlana",172, 70);
+        Person_no_practice Berezina = new Person_no_practice("Svetlana",172, 70);
         String Berezina_name = Berezina.getName();
         double Berezina_height = Berezina.getHeight();
         double Berezina_weight = Berezina.getWeight();
 
-        Person Abrosimova = new Person("Margo",158, 44);
+        Person_no_practice Abrosimova = new Person_no_practice("Margo",158, 44);
         String Abrosimova_name = Abrosimova.getName();
         double Abrosimova_height = Abrosimova.getHeight();
         double Abrosimova_weight = Abrosimova.getWeight();

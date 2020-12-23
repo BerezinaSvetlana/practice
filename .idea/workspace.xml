@@ -22,8 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="3.21">
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="На всякий, вдруг что не закоммитилось">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person_no_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/PersonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +36,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="TestNG Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,7 +45,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person_no_practice.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -189,13 +191,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00105" summary="2.6 немного изменила код и добавила тесты">
-      <created>1605942409487</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1605942409487</updated>
     </task>
     <task id="LOCAL-00106" summary="2.7 Создать метод, принимающий на вход a, b и c – дробные числа, соответствующие коэффициентам квадратного уравнения. Метод должен возвращать решение в виде массива: если решений нет, то массив должен быть пуст (0 элементов). Если решение одно, то массив должен иметь размерность 1 и в нём должно содержаться это единственное решение. Если решений два, то массив должен иметь размерность 2 и содержать в себе оба решения в порядке возрастания. Покрыть метод тестами (с заданной точностью). Не забывать, что a может быть равно 0.">
       <created>1605944090642</created>
@@ -533,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608235068242</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="На всякий, вдруг что не закоммитилось">
+      <created>1608242575953</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1608242575953</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -549,7 +551,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.30, но тесты почему-то не работают, не могу понять где ошибка" />
     <MESSAGE value="классы, которые не добывились в репозиторий" />
     <MESSAGE value="Навела порядок" />
     <MESSAGE value="Сделала заготовки" />
@@ -574,7 +575,8 @@
     <MESSAGE value="create 3.19 and tests" />
     <MESSAGE value="3.20 и тесты красным" />
     <MESSAGE value="3.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.21" />
+    <MESSAGE value="На всякий, вдруг что не закоммитилось" />
+    <option name="LAST_COMMIT_MESSAGE" value="На всякий, вдруг что не закоммитилось" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -589,10 +591,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="525" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607544061882" />
-    <state x="0" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1600966408610">
+    <state x="0" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1608753356440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1600966408610" />
+    <state x="0" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608753356440" />
     <state x="448" y="114" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1600773914672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -609,26 +611,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="544" y="294" width="448" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1607544103047" />
+    <state x="498" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608753081303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1608753081303" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601140669202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601140669202" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608235009643">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608242590700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608235009643" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608235009643">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608242590700" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608242590700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608235009643" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608235009643">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608242590700" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608242590700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608235009643" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608235009643">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608242590700" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608242590700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608235009643" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608242590700" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1608141063698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -649,10 +655,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600783631726" />
-    <state x="490" y="155" key="Vcs.Push.Dialog.v2" timestamp="1607555563172">
+    <state x="490" y="155" key="Vcs.Push.Dialog.v2" timestamp="1608242581872">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="490" y="155" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607555563172" />
+    <state x="490" y="155" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608242581872" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607544256626">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
