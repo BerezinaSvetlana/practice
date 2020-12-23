@@ -22,10 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="На всякий, вдруг что не закоммитилось">
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="Поля и геттеры и сеттеры класса Person">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person_no_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/PersonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
       <recent name="C:\Users\User\IdeaProjects\practice\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Number3_21">
+  <component name="RunManager" selected="Application.Person">
     <configuration name="Number3_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_.Number3_21" />
       <module name="berezinasvetlana-practice" />
@@ -101,20 +100,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number3_12Test.testStrings" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.Person.Person" />
       <module name="berezinasvetlana-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_.*" />
+          <option name="PATTERN" value="ru.ssau.tk.berezinasvetlana.practice.Task1.Person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_" />
-      <option name="MAIN_CLASS_NAME" value="ru.ssau.tk.berezinasvetlana.practice.Task1.practice.Number3_.Number3_12Test" />
-      <option name="METHOD_NAME" value="testStrings" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.Number3_21" />
         <item itemvalue="TestNG.Number3_20Test.testGetStr" />
         <item itemvalue="TestNG.Number3_19Test.testParseStringOnArray" />
         <item itemvalue="TestNG.Number3_13Test.testGetStringOfIndex" />
-        <item itemvalue="TestNG.Number3_12Test.testStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -191,13 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00106" summary="2.7 Создать метод, принимающий на вход a, b и c – дробные числа, соответствующие коэффициентам квадратного уравнения. Метод должен возвращать решение в виде массива: если решений нет, то массив должен быть пуст (0 элементов). Если решение одно, то массив должен иметь размерность 1 и в нём должно содержаться это единственное решение. Если решений два, то массив должен иметь размерность 2 и содержать в себе оба решения в порядке возрастания. Покрыть метод тестами (с заданной точностью). Не забывать, что a может быть равно 0.">
-      <created>1605944090642</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1605944090642</updated>
     </task>
     <task id="LOCAL-00107" summary="2.8 Создать метод, возвращающий массив входной размерности, содержащий в себе натуральные числа, начиная с 1, за исключением тех, что делятся на 3. Покрыть метод тестами.">
       <created>1605944621611</created>
@@ -535,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608242575953</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="Поля и геттеры и сеттеры класса Person">
+      <created>1608753430781</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1608753430781</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -551,7 +545,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="классы, которые не добывились в репозиторий" />
     <MESSAGE value="Навела порядок" />
     <MESSAGE value="Сделала заготовки" />
     <MESSAGE value="3.1" />
@@ -576,7 +569,8 @@
     <MESSAGE value="3.20 и тесты красным" />
     <MESSAGE value="3.21" />
     <MESSAGE value="На всякий, вдруг что не закоммитилось" />
-    <option name="LAST_COMMIT_MESSAGE" value="На всякий, вдруг что не закоммитилось" />
+    <MESSAGE value="Поля и геттеры и сеттеры класса Person" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поля и геттеры и сеттеры класса Person" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
