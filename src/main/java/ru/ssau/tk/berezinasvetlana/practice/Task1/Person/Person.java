@@ -22,10 +22,21 @@ public class Person {
         brother_2.setFirstName("Bogdan");
         brother_2.setPassportId(4);
 
+        Person father = new Person();
+        Person mother = new Person("Elena", "Berezina");
+        Person uncle = new Person(613132);
+        Person aunt = new Person("Ekaterina", "Vaxlanova", 35466);
+
         System.out.println(grandfather.getFirstName() + ' ' + grandfather.getLastName() + ' ' + grandfather.getPassportId());
         System.out.println(grandmother.getFirstName() + ' ' + grandmother.getLastName() + ' ' + grandmother.getPassportId());
         System.out.println(brother_1.getFirstName() + ' ' + brother_1.getLastName() + ' ' + brother_1.getPassportId());
         System.out.println(brother_2.getFirstName() + ' ' + brother_2.getLastName() + ' ' + brother_2.getPassportId());
+
+        System.out.println("Father: unknown");
+        System.out.println("Mother: " + mother.getFirstName() + " " + mother.getLastName() + " " + "Passport ID: unknown");
+        System.out.println("Uncle: no name Passport ID: " + uncle.getPassportId());
+        System.out.println("Aunt: " + aunt.getFirstName() + " " + aunt.getLastName() + " " + "Passport ID:" + aunt.getPassportId());
+
     }
 
     private String firstName;

@@ -22,7 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="Задала 4 конструктора по заданию">
+    <list default="true" id="552b2c1c-918d-4fd5-a5a8-91ebd7f4cd17" name="Default Changelist" comment="вот теперь хорошо работает, а то до этого ошибка была">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ssau/tk/berezinasvetlana/practice/Task1/Person/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,13 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773430027</updated>
-    </task>
-    <task id="LOCAL-00109" summary="2.10 Создать метод, возвращающий массив входной размерности, представляющий собой геометрическую прогрессию, где первый элемент и знаменатель являются также выходными параметрами. Покрыть метод тестами с заданной точностью.">
-      <created>1605947709334</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1605947709334</updated>
     </task>
     <task id="LOCAL-00110" summary="2.11 Создать метод, возвращающий массив, содержащий все делители целого числа, являющегося входным аргументом метода. Покрыть метод тестами. Примечание: делитель числа не может быть больше, чем корень из этого числа.&#10;странное примечание, из-за него некоторые делители не подходят под условия. Например 3, если брать n=6">
       <created>1605950377968</created>
@@ -528,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608754063072</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="вот теперь хорошо работает, а то до этого ошибка была">
+      <created>1608754273687</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1608754273687</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +545,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3.1" />
     <MESSAGE value="вернула все обратно, потому что все поломалось" />
     <MESSAGE value="test 3.1" />
     <MESSAGE value="3.2 and tests" />
@@ -569,7 +569,8 @@
     <MESSAGE value="Поля и геттеры и сеттеры класса Person" />
     <MESSAGE value="Заполнила поля" />
     <MESSAGE value="Задала 4 конструктора по заданию" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задала 4 конструктора по заданию" />
+    <MESSAGE value="вот теперь хорошо работает, а то до этого ошибка была" />
+    <option name="LAST_COMMIT_MESSAGE" value="вот теперь хорошо работает, а то до этого ошибка была" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600777981150">
@@ -612,22 +613,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601140669202" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608753928260">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608754873096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608753928260" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608753928260">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608754873096" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608754873095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608753928260" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608753928260">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608754873095" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608754873095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608753928260" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608753928260">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608754873095" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608754873095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608753928260" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608754873095" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1608141063698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
